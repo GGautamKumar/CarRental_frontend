@@ -3,7 +3,6 @@ import car from "../images/selectcar.png";
 import operator from "../images/operator.png";
 import drive from "../images/drive.png";
 
-
 export default function Cards(){
     return(
         <>
