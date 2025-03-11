@@ -9,7 +9,6 @@ import Accountbar from '../Components/Navbarcomponents/Accountbar';
 import LinearColor from '../Components/Bodycomponents/linearprogress';
 
 
-
 export default function About(){
 
     const {user} = useContext(UserContext);
