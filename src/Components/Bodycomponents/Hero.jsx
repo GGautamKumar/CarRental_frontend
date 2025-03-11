@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 
-
 export default function Hero({handleBookRideClick}){
     return(
         <>
