@@ -8,7 +8,6 @@ import toyota from  "../images/realtoyota.png";
 import CarCard from './Reactcard';
 
 
-
 export default function Carmodel(){
 
     const cars = [
