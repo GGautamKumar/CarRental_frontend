@@ -5,7 +5,7 @@ import CalendarMonthOutlinedIcon from '@mui/icons-material/CalendarMonthOutlined
 
 export default function Form({reservationFormRef, toggleDiv, carType, setCarType, pickPlace, setPickPlace, dropPlace, setDropPlace, pickDate, setPickDate, dropDate, setDropDate}){
 
-
+  
   const [checkFields, setCheckfields] = useState(false);
 
 
