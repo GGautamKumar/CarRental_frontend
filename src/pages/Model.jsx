@@ -22,7 +22,6 @@ export default function Model(){
           };
     },[user])
 
-
     return(
         <>
         {!checkUser && <LinearColor/>}
