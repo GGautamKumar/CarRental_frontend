@@ -4,8 +4,6 @@ import weisley from "../images/weisley.jpg";
 
 
 
-
-
 export default function Reviews(){
     return(
         <>
