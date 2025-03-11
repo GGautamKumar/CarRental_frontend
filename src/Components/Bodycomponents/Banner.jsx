@@ -1,7 +1,6 @@
 import React from 'react';
 import jeep from "../images/jeep.png";
 
-
 export default function Banner(){
     return(
         <>
