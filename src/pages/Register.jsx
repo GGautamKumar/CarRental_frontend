@@ -8,6 +8,7 @@ import Publicroute from '../middleware/publicroute';
 import LinearColor from '../Components/Bodycomponents/linearprogress';
 import { UserContext } from '../Context/Clientcontext';
 
+
 const RegistrationForm = () => {
 
    Publicroute();
