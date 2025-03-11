@@ -13,7 +13,6 @@ import { UserContext } from '../Context/Clientcontext';
 import { useNavigate } from 'react-router-dom';
 import Privateroute from '../middleware/privateroute';
 
-
 export default function Booking(){
 
     Privateroute();
