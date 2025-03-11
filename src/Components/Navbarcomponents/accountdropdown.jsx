@@ -5,7 +5,6 @@ import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined
 import axios from 'axios';
 
 
-
 export default function Dropdown(){
 
     const {setUser} = useContext(UserContext);
