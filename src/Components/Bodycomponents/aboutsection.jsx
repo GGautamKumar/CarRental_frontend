@@ -4,7 +4,6 @@ import Truck from "../images/truck.png";
 import garrage from "../images/garrage.png";
 import outlet from "../images/outlet.png";
 
-
 export default function AboutSection(){
     return(
         <>
