@@ -16,6 +16,7 @@ import LinearColor from '../Components/Bodycomponents/linearprogress';
 import Privateroute from '../middleware/privateroute';
 
 
+
 export default function Account(){
 
    Privateroute();
