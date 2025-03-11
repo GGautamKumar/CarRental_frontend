@@ -6,7 +6,6 @@ import { useNavigate } from 'react-router-dom';
 import { UserContext } from '../../Context/Clientcontext';
 
 
-
 export default function Accountbar(){
 
     const [isToggle, setIstoggle] = useState(false);
