@@ -20,7 +20,7 @@ export default function Contact(){
     const [message, setMessage] = useState(false);
     const [doneFeedback, setDoneFeedback] = useState(false);
 
-
+    
     useEffect(()=>{
         setEmail(user?.username)
         const timer = setTimeout(() => {
