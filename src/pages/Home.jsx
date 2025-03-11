@@ -16,8 +16,6 @@ import { UserContext } from '../Context/Clientcontext';
 import Publicroute from '../middleware/publicroute';
 
 
-
-
 export default function Home(){
 
     Publicroute();
