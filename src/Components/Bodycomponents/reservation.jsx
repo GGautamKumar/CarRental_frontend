@@ -6,7 +6,6 @@ import passat from "../images/passat.jpg";
 import benz from "../images/benz.jpg";
 import golf from "../images/golf.jpg";
 
-
 export default function Reservationbox({handleBookRideClick}){
 
     const CarNames = [
